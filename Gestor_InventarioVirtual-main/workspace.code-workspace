@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\test-01"
+		},
+		{
+			"path": "..\\flask-crud-contacts-app-master"
+		}
+	]
+}
